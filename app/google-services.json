@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "167825400680",
+    "firebase_url": "https://mudapp-4fed5.firebaseio.com",
+    "project_id": "mudapp-4fed5",
+    "storage_bucket": "mudapp-4fed5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:167825400680:android:c86cbfabaf32bebe8aacdd",
+        "android_client_info": {
+          "package_name": "e.lil.mudapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "167825400680-lfqm083g1m0aq4f9odk5f9hmmajgar0q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "e.lil.mudapp",
+            "certificate_hash": "215307624b1e4bd40059cbd37bc326c791538c30"
+          }
+        },
+        {
+          "client_id": "167825400680-gpbt5bi4tvcdje5mohmghvmkfqe4dh20.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_xQD8k5Bvig1RQO6eXGh62noVesklS5Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "167825400680-gpbt5bi4tvcdje5mohmghvmkfqe4dh20.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

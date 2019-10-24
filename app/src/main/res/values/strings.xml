@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MUDAPP</string>
+    <string name="enter_email">Ingrese su correo</string>
+    <string name="enter_password">Ingrese su contraseña</string>
+</resources>
